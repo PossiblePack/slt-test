@@ -1,0 +1,262 @@
+[
+  {
+    "name": {
+      "firstName": "John",
+      "lastName": "Doe",
+      "middleName": "Michael"
+    },
+    "address": {
+      "street": "261 Erdman Ford",
+      "city": "East Daphne",
+      "state": "Kentucky",
+      "zipCode": "40003",
+      "country": "USA"
+    },
+    "contact": {
+      "email": "john.doe@example.com",
+      "phone": "+1-555-1234-567"
+    },
+    "dateOfBirth": "1985-08-15",
+    "gender": "Male"
+  },
+  {
+    "name": {
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "middleName": "Elizabeth"
+    },
+    "address": {
+      "street": "123 Maple Street",
+      "city": "Springfield",
+      "state": "Illinois",
+      "zipCode": "62704",
+      "country": "USA"
+    },
+    "contact": {
+      "email": "jane.smith@example.com",
+      "phone": "+1-555-9876-543"
+    },
+    "dateOfBirth": "1990-02-25",
+    "gender": "Female"
+  },
+  {
+    "name": {
+      "firstName": "Alice",
+      "lastName": "Johnson",
+      "middleName": "Marie"
+    },
+    "address": {
+      "street": "456 Oak Lane",
+      "city": "Mapleton",
+      "state": "Colorado",
+      "zipCode": "80401",
+      "country": "USA"
+    },
+    "contact": {
+      "email": "alice.johnson@example.com",
+      "phone": "+1-555-6789-012"
+    },
+    "dateOfBirth": "1978-11-09",
+    "gender": "Female"
+  },
+  {
+    "name": {
+      "firstName": "Robert",
+      "lastName": "Brown",
+      "middleName": "David"
+    },
+    "address": {
+      "street": "789 Pine Street",
+      "city": "Riverdale",
+      "state": "New York",
+      "zipCode": "10463",
+      "country": "USA"
+    },
+    "contact": {
+      "email": "robert.brown@example.com",
+      "phone": "+1-555-3456-789"
+    },
+    "dateOfBirth": "1965-05-30",
+    "gender": "Male"
+  },
+  {
+    "name": {
+      "firstName": "Emily",
+      "lastName": "Davis",
+      "middleName": "Rose"
+    },
+    "address": {
+      "street": "321 Birch Drive",
+      "city": "Greenwich",
+      "state": "Connecticut",
+      "zipCode": "06830",
+      "country": "USA"
+    },
+    "contact": {
+      "email": "emily.davis@example.com",
+      "phone": "+1-555-2345-678"
+    },
+    "dateOfBirth": "1992-07-17",
+    "gender": "Female"
+  },
+  {
+    "name": {
+      "firstName": "Michael",
+      "lastName": "Wilson",
+      "middleName": "Andrew"
+    },
+    "address": {
+      "street": "654 Elm Street",
+      "city": "Lakewood",
+      "state": "Washington",
+      "zipCode": "98229",
+      "country": "USA"
+    },
+    "contact": {
+      "email": "michael.wilson@example.com",
+      "phone": "+1-555-4567-890"
+    },
+    "dateOfBirth": "1988-12-11",
+    "gender": "Male"
+  },
+  {
+    "name": {
+      "firstName": "Sarah",
+      "lastName": "Miller",
+      "middleName": "Anne"
+    },
+    "address": {
+      "street": "987 Cedar Avenue",
+      "city": "San Diego",
+      "state": "California",
+      "zipCode": "92101",
+      "country": "USA"
+    },
+    "contact": {
+      "email": "sarah.miller@example.com",
+      "phone": "+1-555-5678-901"
+    },
+    "dateOfBirth": "1983-03-22",
+    "gender": "Female"
+  },
+  {
+    "name": {
+      "firstName": "William",
+      "lastName": "Moore",
+      "middleName": "James"
+    },
+    "address": {
+      "street": "852 Willow Way",
+      "city": "Austin",
+      "state": "Texas",
+      "zipCode": "73301",
+      "country": "USA"
+    },
+    "contact": {
+      "email": "william.moore@example.com",
+      "phone": "+1-555-6789-123"
+    },
+    "dateOfBirth": "1976-09-08",
+    "gender": "Male"
+  },
+  {
+    "name": {
+      "firstName": "Olivia",
+      "lastName": "Taylor",
+      "middleName": "Grace"
+    },
+    "address": {
+      "street": "741 Birchwood Crescent",
+      "city": "Charleston",
+      "state": "South Carolina",
+      "zipCode": "29401",
+      "country": "USA"
+    },
+    "contact": {
+      "email": "olivia.taylor@example.com",
+      "phone": "+1-555-7890-234"
+    },
+    "dateOfBirth": "1995-06-10",
+    "gender": "Female"
+  },
+  {
+    "name": {
+      "firstName": "James",
+      "lastName": "Anderson",
+      "middleName": "Thomas"
+    },
+    "address": {
+      "street": "1234 Cherry Lane",
+      "city": "Nashville",
+      "state": "Tennessee",
+      "zipCode": "37201",
+      "country": "USA"
+    },
+    "contact": {
+      "email": "james.anderson@example.com",
+      "phone": "+1-555-8901-234"
+    },
+    "dateOfBirth": "1980-10-02",
+    "gender": "Male"
+  },
+  {
+    "name": {
+      "firstName": "Sophia",
+      "lastName": "White",
+      "middleName": "Lily"
+    },
+    "address": {
+      "street": "567 Spruce Drive",
+      "city": "Columbus",
+      "state": "Ohio",
+      "zipCode": "43215",
+      "country": "USA"
+    },
+    "contact": {
+      "email": "sophia.white@example.com",
+      "phone": "+1-555-9012-345"
+    },
+    "dateOfBirth": "1987-04-20",
+    "gender": "Female"
+  },
+  {
+    "name": {
+      "firstName": "David",
+      "lastName": "Clark",
+      "middleName": "Alexander"
+    },
+    "address": {
+      "street": "234 Maplewood Drive",
+      "city": "Denver",
+      "state": "Colorado",
+      "zipCode": "80203",
+      "country": "USA"
+    },
+    "contact": {
+      "email": "david.clark@example.com",
+      "phone": "+1-555-0123-456"
+    },
+    "dateOfBirth": "1972-12-25",
+    "gender": "Male"
+  },
+  {
+    "name": {
+      "firstName": "Emma",
+      "lastName": "Rodriguez",
+      "middleName": "Natalie"
+    },
+    "address": {
+      "street": "3450 Elmwood Street",
+      "city": "Phoenix",
+      "state": "Arizona",
+      "zipCode": "85001",
+      "country": "USA"
+    },
+    "contact": {
+      "email": "emma.rodriguez@example.com",
+      "phone": "+1-555-2345-678"
+    },
+    "dateOfBirth": "1993-01-11",
+    "gender": "Female"
+  }
+]
